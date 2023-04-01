@@ -2,7 +2,7 @@
 
 ## What We Do
 
-We aim to address the issue of plastic waste by organizing our first community project to assemble and design sustainable trash **Smart Bins** for the recycling of plastic. **Fucha** bins, an abbreviation for **Fedha Uchafu**, meaning **lucrative waste management** aims to transform plastic waste collected from different areas into eco-bricks for sustainable spaces. We will start with a pilot project in the University of Dar-es-salaam area, and expand to other areas as we progress.
+We aim to address the issue of plastic waste by organizing our first community project to assemble and design sustainable trash **Smart Bins** for the recycling of plastic. **Fucha** bins, an abbreviation for **Fedha Uchafu**, meaning **lucrative waste management** aims to transform plastic waste collected from different areas into eco-bricks for sustainable spaces. 
 
 ## Our Belief
 
@@ -44,22 +44,11 @@ The end goal is for the plastic collected to be recycled into regenerative prod
 ## Contact Us
 
 If you have any questions, comments, or concerns, please don't hesitate to contact us at:
-
 1. 
-     - Name    : Buyegi, Joseph M.
-     - Email   : <buyegiminzi@gmail.com>
-     - [Github Link](https://github.com/Rasta669) 
-     - [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bujo_rasta.svg?style=social&label=Follow%20%40bujo_rasta)](https://twitter.com/bujo_rasta)
-
-2. 
      - Name    : Nyumba, Karim M.
      - Email   : <nyumba29@gmail.com>
-     - [Github Link](https://github.com/Kareem643)
-     - [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/keemz643.svg?style=social&label=Follow%20%40keemz643)](https://twitter.com/keemz643)
+     - [Github Link](https://github.com/karimnyumba)
+     - [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/karimnyumba.svg?style=social&label=Follow%20%40karimnyumba)](https://twitter.com/karimnyumba)
 
-3. 
-     - Name    : Mwanga, Kevin R.
-     - Email   : <kevinmwanga4@gmail.com>
-     - [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/krcryptonian.svg?style=social&label=Follow%20%40krcryptonian)](https://twitter.com/krcryptonian)
 
 
