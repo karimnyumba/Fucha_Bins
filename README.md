@@ -45,10 +45,10 @@ The end goal is for the plastic collected to be recycled into regenerative prod
 
 If you have any questions, comments, or concerns, please don't hesitate to contact us at:
 1. 
-     - Name    : Nyumba, Karim M.
-     - Email   : <nyumba29@gmail.com>
-     - [Github Link](https://github.com/karimnyumba)
-     - [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/karimnyumba.svg?style=social&label=Follow%20%40karimnyumba)](https://twitter.com/karimnyumba)
+- Name    : Nyumba, Karim M.
+- Email   : <nyumba29@gmail.com>
+- [Github Link](https://github.com/karimnyumba)
+- [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/karimnyumba.svg?style=social&label=Follow%20%40karimnyumba)](https://twitter.com/karimnyumba)
 
 
 
