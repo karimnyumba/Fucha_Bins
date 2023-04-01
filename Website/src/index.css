@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+    /* adding global styles */
+    @layer base{
+        html{
+            @apply scroll-smooth
+        }
+
+        body{
+            @apply font-[Poppins]
+            
+        }
+
+        li{
+            @apply text-lg p-4
+        }
+
+
+        h2{
+            @apply text-xl font-bold
+        }
+    }
