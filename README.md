@@ -2,7 +2,7 @@
 
 ## What We Do
 
-We aim to address the issue of plastic waste by organizing our first community project to assemble and design sustainable trash **Smart Bins** for the recycling of plastic. **Fucha** bins, an abbreviation for **Fedha Uchafu**, meaning **lucrative waste management** aims to transform plastic waste collected from different areas into eco-bricks for sustainable spaces. 
+We aim to address the issue of plastic waste by organizing our first community project to assemble and design sustainable trash **Smart Bins** for the recycling of plastic. **Fucha** bins, an abbreviation for **Bins of the Future**, meaning **lucrative waste management** aims to transform plastic waste collected from different areas into eco-bricks for sustainable spaces. 
 
 ## Our Belief
 
